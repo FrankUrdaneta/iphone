@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2f88ecf.css",
+    "main.js": "/static/js/main.aab14629.js",
+    "static/js/787.1937f22b.chunk.js": "/static/js/787.1937f22b.chunk.js",
+    "static/media/compare_iphone_15_pro.png": "/static/media/compare_iphone_15_pro.fbc7b583a93ba07804fa.png",
+    "static/media/compare_iphone_15__two.png": "/static/media/compare_iphone_15__two.5e4c3b88e3d1bb24a05e.png",
+    "static/media/compare_iphone_14__ct4sjk962pea_large.png": "/static/media/compare_iphone_14__ct4sjk962pea_large.ce317d0d02ec095f7c96.png",
+    "static/media/hero_iphone_15__white.jpg": "/static/media/hero_iphone_15__white.ca87b4065cf85fa66f51.jpg",
+    "static/media/compare_iphone_se_14_two.png": "/static/media/compare_iphone_se_14_two.c158daccc127a647702e.png",
+    "static/media/iphone_se_hero__trio_white.jpg": "/static/media/iphone_se_hero__trio_white.11ebc8a5a1c5b6df9e88.jpg",
+    "static/media/portada.jpg": "/static/media/portada.ef750af8e06110d970b0.jpg",
+    "index.html": "/index.html",
+    "main.a2f88ecf.css.map": "/static/css/main.a2f88ecf.css.map",
+    "main.aab14629.js.map": "/static/js/main.aab14629.js.map",
+    "787.1937f22b.chunk.js.map": "/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f88ecf.css",
+    "static/js/main.aab14629.js"
+  ]
+}
